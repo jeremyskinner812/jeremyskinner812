@@ -30,7 +30,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Texas.
 
 - 🔭 I’m currently working on building and deploying an app to the Google Store.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning Java.
 - 💬 Ask me about bass guitar and jazz music.
 - ⚡ In my free time I am practicing leetcode problems and learning new technologies.
 - 😄 Pronouns: He/Him
